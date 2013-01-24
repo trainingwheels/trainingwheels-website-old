@@ -1,6 +1,6 @@
 CACHE MANIFEST
 
-# Time: Thu Jan 24 2013 10:56:20 GMT-0600 (CST)
+# Time: Thu Jan 24 2013 14:18:40 GMT-0600 (CST)
 # This manifest was created by confess.js, http://github.com/jamesgpearce/confess
 #
 # Retrieved URL: http://localhost:3501/
@@ -18,7 +18,7 @@ CACHE MANIFEST
 #   cacheFilter: .*
 #   networkFilter: null
 #  url: http://localhost:3501
-#  configFile: /Users/mirzu/Sites/yeoman/cli/lib/support/confess.json
+#  configFile: /usr/local/lib/node_modules/yeoman/lib/support/confess.json
 
 CACHE:
 ../fonts/ss-social/ss-social.css
@@ -26,12 +26,13 @@ CACHE:
 ../fonts/ss-symbolicons-block/ss-symbolicons-block.css
 http://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js
 http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700
-http://localhost:3501/images/ecb9e044.brown-noise.png
-http://localhost:3501/images/f3915c22.tw-pattern-dark.png
+http://localhost:3501/images/brown-noise.png
+http://localhost:3501/images/tw-pattern-dark.png
 http://www.google-analytics.com/ga.js
+images/3903c61a.teach-anything.png
 images/63041e7a.classroom-long.png
 scripts/210a0bac.utils.js
-styles/e056b7f3.main.css
+styles/29bf5c6a.main.css
 
 NETWORK:
 *
