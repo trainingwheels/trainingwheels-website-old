@@ -25,6 +25,7 @@ git add -u
 ```bash
 git status
 git commit -m "[your update message]"
+git push
 ```
 
 BONUS: Go automate this. . .
