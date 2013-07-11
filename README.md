@@ -1,8 +1,4 @@
-trainingwheels.github.com
-=========================
+Old website build
+-----------------
 
-The generated gettrainingwheels.org website. Changes go in the repo gettrainingwheels.org.
-
-This site is automatically built by Jenkins. Don't edit the files here.
-
--mm
+This was the built code using Yeoman, new site uses Jekyll.
